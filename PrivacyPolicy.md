@@ -1,4 +1,4 @@
-#CJ My Promo App Privacy Policy
+# CJ My Promo App Privacy Policy
  Privacy Policy
 
 This privacy policy governs your use of the software application CJ My Promo App (“Application”) for mobile devices that was created by C&C Solutions. The Application used to show available promotion of various stores.
